@@ -1,0 +1,8 @@
+{
+  "name": "Remix tattoo_diary_1.2_test_GAI_19.11",
+  "description": "Imported from GitHub: OrangeWombat87/tattoo_diary_1.2_test_GAI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
